@@ -1,0 +1,10 @@
+{
+  "name": "is-prime-checker",
+  "version": "1.0.0",
+  "description": "A simple utility to check whether a number is prime.",
+  "main": "index.js",
+  "keywords": ["prime", "math", "number", "isPrime"],
+  "license": "MIT",
+  "author": "Nasr Abraheem Barkah Kashtu",
+  "type": "commonjs"
+}
